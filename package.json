@@ -1,0 +1,12 @@
+{
+  "name": "nl.maxxie.earykong",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "homey-rfdriver": "^1.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxxie01/Earykong.git"
+  }
+}
